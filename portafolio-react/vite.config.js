@@ -8,7 +8,7 @@ export default defineConfig({
       registerType: "autoUpdate",
       includeAssets: ["icon-192.png", "icon-512.png"],
       manifest: {
-        name: "Portafolio de Edwin Rozo",
+        name: "Portafolio Dana Arrubla",
         short_name: "Portafolio",
         description: "Landing page tipo portafolio construida con React y Vite",
         theme_color: "#0f172a",
@@ -17,9 +17,9 @@ export default defineConfig({
         start_url: "/",
         icons: [
           {
-            src: "icon-192.png",
+            src: "wi.jpg",
             sizes: "192x192",
-            type: "image/png",
+            type: "image/jpg",
           },
           {
             src: "icon-512.png",
